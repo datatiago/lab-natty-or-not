@@ -116,7 +116,3 @@ Este repositório foi criado como parte do desafio
 
 A proposta é explorar o potencial das IAs Generativas, construir um portfólio “extremamente aesthetic” e, ao mesmo tempo, refletir sobre o que é **natural** e o que é **fake** na era do conhecimento assistido por IA.
 
-Hashtags sugeridas:
-- `#LabDIONattyOrNot`  
-- `#GenAI`  
-- `#IAeConhecimento`
