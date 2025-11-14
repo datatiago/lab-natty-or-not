@@ -22,7 +22,7 @@ o quanto do nosso aprendizado hoje é realmente “natty” (construído com ent
  **Ferramenta de Geração de Imagem (ex.: Nano Banana "Gemini 2.5 Flash Image")**  
   - Criação de uma imagem “aesthetic” representando uma pessoa estudando com o apoio de várias IAs.
 
- **Git & GitHub**  
+ **GitHub**  
   - Versionamento e publicação do projeto como portfólio.
 
 ---
