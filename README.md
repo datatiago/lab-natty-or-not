@@ -25,8 +25,6 @@ o quanto do nosso aprendizado hoje é realmente “natty” (construído com ent
  **GitHub**  
   - Versionamento e publicação do projeto como portfólio.
 
----
-
 ## 🛠️ Processo de Criação
 
 ### 1. Definição do Tema e Objetivo
@@ -40,8 +38,6 @@ o quanto do nosso aprendizado hoje é realmente “natty” (construído com ent
    - Como eu estudava/produzia conteúdo técnico antes de GenAI?
    - O que mudou com GenAI no meu dia a dia de TI/Infra/Suporte?
    - Onde GenAI ajuda muito e onde ainda preciso ser “natty” de verdade?
-
----
 
 ### 2. Criação do Conteúdo Textual
 Usei uma IA de texto para gerar um rascunho sobre o tema, com o seguinte prompt base:
@@ -57,8 +53,6 @@ Passos seguidos:
    - adicionando exemplos e comentários próprios.
 3. O texto final foi incorporado neste repositório (README ou arquivo `.md` separado).
 
----
-
 ### 3. Criação da Imagem “Natty or Not?” do Aprendizado com GenAI
 Para representar visualmente o tema, criei uma imagem com IA generativa usando um prompt semelhante a:
 
@@ -69,9 +63,7 @@ Passos:
 1. Gerei algumas variações da imagem com esse prompt.  
 2. Escolhi a que melhor representava o conceito de “estudo assistido por GenAI”.  
 3. Ajustei a imagem em uma ferramenta de edição (crop, cores, contraste) para ficar mais “aesthetic”.  
-4. Salvei a imagem no repositório (ex.: `imgs/cena-estudo-genai.png`).
-
----
+4. Salvei a imagem no repositório (`imgs/cena-estudo-genai.png`).
 
 ## ✅ Resultados
 
