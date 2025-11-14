@@ -82,8 +82,7 @@ Passos:
 
 > Assim que os arquivos estiverem no repositório, os links/prints podem ser adicionados aqui.
 
-## 💭 Reflexão (Opcional, mas recomendado)
-
+## 💭 Reflexão
 - **O que a GenAI fez por mim neste projeto?**  
   Ajudou a organizar ideias, sugerir estrutura, gerar rascunhos de texto e criar a imagem principal.
 
