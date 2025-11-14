@@ -66,7 +66,7 @@ Para representar visualmente o tema, criei uma imagem com IA generativa usando u
 > “Ultra-realistic digital artwork of a person studying at a desk at night, surrounded by floating holographic windows of AI assistants (chatbots, code, diagrams, mind maps). Warm lighting from the monitor, books and notes on the table, a subtle futuristic city outside the window. Cinematic lighting, 4k, highly detailed, aesthetic, soft bokeh, modern color grading.”
 
 Passos:
-1. Gereis algumas variações da imagem com esse prompt.  
+1. Gerei algumas variações da imagem com esse prompt.  
 2. Escolhi a que melhor representava o conceito de “estudo assistido por GenAI”.  
 3. Ajustei a imagem em uma ferramenta de edição (crop, cores, contraste) para ficar mais “aesthetic”.  
 4. Salvei a imagem no repositório (ex.: `imgs/cena-estudo-genai.png`).
