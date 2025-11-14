@@ -78,6 +78,7 @@ Passos:
   Uma arte gerada por IA representando uma pessoa estudando cercada por assistentes GenAI, ilustrando a mistura entre:
   - métodos tradicionais (livros, anotações);  
   - e ferramentas modernas (chats, código, resumos, diagramas).
+  - ![Aesthetic-GenAI](./Aesthetic-GenAI.png)
 
 > Assim que os arquivos estiverem no repositório, os links/prints podem ser adicionados aqui.
 
